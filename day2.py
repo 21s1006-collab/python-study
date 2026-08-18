@@ -7,7 +7,7 @@ print(grade)
 print("名前:", name)
 print("学年:", grade)
 
-food="frid shrimp"
+food="fried shrimp"
 color="yellow"
 
 print("my favorite food:", food)
